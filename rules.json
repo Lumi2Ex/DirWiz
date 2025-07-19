@@ -1,0 +1,7 @@
+{
+    "Rule 2": {
+        "rule": ".exe",
+        "destination": "c:/Users/Lumi/Documents",
+        "directory": "c:/Users/Lumi/Downloads"
+    }
+}
